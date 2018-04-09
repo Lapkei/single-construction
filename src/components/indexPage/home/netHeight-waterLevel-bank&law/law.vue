@@ -42,6 +42,7 @@ export default {
 }
 ul{
     padding: 20px 51px 17px 20px;
+    height: 193px;
 }
 ul li{
     width: 100%;
