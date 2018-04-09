@@ -139,7 +139,7 @@ export default {
     border-top-color: #8EC0ED;
 }
 .right-search-block ul{
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }
 .triangle{
     width: 0;
