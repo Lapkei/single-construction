@@ -5,16 +5,18 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 单项工程 前端页面
+#
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 端口号为 3030
 npm run dev
 
-# build for production with minification
+# 打包
 npm run build
 
-# build for production and view the bundle analyzer report
+# 依赖查看
 npm run build --report
 ```
 
