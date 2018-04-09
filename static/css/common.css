@@ -1,0 +1,15 @@
+.clear-fix:after{
+    content:"";
+    visibility: hidden;
+    clear: both;
+    line-height: 0;
+    display: block;
+}
+html,body,div{
+    font-family: "PingFang SC","Microsoft YaHei","Helvetica Neue","Open Sans",Arial
+}
+a{
+    font-size: inherit;
+    color: inherit;
+    text-decoration: inherit;
+}
